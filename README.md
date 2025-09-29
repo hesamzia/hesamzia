@@ -32,6 +32,7 @@ Now, I’m back to my first passion — **coding** — with a focus on Python pr
 
 ## 💼 Freelance Work  
 - 📌 [Check my Fiverr Gig](https://www.fiverr.com/hesamzia/clean-and-analyze-your-data) – Offering services in data cleaning, analysis, and Python automation.
+Check out my gig: **Data Cleaning, Analysis & Python Automation**
 
 ---
 
