@@ -26,7 +26,8 @@ Now, I’m back to my first passion — **coding** — with a focus on Python pr
 - 🔒 [**Main Menu & Authentication**](https://github.com/hesamzia/Mainmennu-And-Authentication) – Secure login & customizable menu system with Flask Blueprints.  
 - 🎮 [**Games in Python**](https://github.com/hesamzia/Experiment-implementing-games-Python) – Classic games (Snake, etc.) rebuilt in Python/Pygame with new mechanics.  
 - 📊 [**Machine Learning with Python**](https://github.com/hesamzia/machine_learning_with_python) – Applied ML (regression, classification, clustering) to real datasets (~4,000 apartment records).  
-- 🏥 **Patient Management System** *(Freelance)* – Full-stack healthcare records system with CRUD, MySQL, PDF reports, and email delivery.  
+- 🏥 **Patient Management System** *(Freelance)* – Full-stack healthcare records system with CRUD, MySQL, PDF reports, and email delivery.
+- 🕒 [**scheduled SMS sender in smart home** *(Freelance)*](https://github.com/hesamzia/Mobile_App_With_Python.git) – mplement a small smart home control program using Python and the help of Java and artificial intelligence collaboration.  
 
 ---
 
